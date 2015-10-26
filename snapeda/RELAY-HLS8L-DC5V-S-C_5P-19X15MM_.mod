@@ -1,0 +1,67 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+REY5-19.0X15.0X15.0MM
+$EndINDEX
+$MODULE REY5-19.0X15.0X15.0MM
+Po 0 0 0 15 00000000 00000000 ~~
+Li REY5-19.0X15.0X15.0MM
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 -0.127 -8.6995 0.7 0.7 0 0.05 N V 21 "REY5-19.0X15.0X15.0MM"
+T1 0.3175 0.1905 0.7 0.7 0 0.05 N V 21 "VAL**"
+DS -9.5 7.75 9.5 7.75 0.127 21
+DS 9.5 7.75 9.5 -7.75 0.127 21
+DS 9.5 -7.75 -9.5 -7.75 0.127 21
+DS -9.5 -7.75 -9.5 7.75 0.127 21
+DP 0 0 0 0 4 0.381 24
+Dl -9.5 -7.75
+Dl 9.5 -7.75
+Dl 9.5 7.75
+Dl -9.5 7.75
+$PAD
+Sh "3" C 2.1 2.1 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po -6.1 -6
+$EndPAD
+$PAD
+Sh "5" C 2.1 2.1 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 6.1 -6
+$EndPAD
+$PAD
+Sh "2" C 2.1 2.1 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po -6.1 6
+$EndPAD
+$PAD
+Sh "4" C 2.1 2.1 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 6.1 6
+$EndPAD
+$PAD
+Sh "1" C 2.1 2.1 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po -8.1 0
+$EndPAD
+$EndMODULE REY5-19.0X15.0X15.0MM
