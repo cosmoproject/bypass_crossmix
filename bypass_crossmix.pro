@@ -1,4 +1,4 @@
-update=Monday 26. October 2015 21.52.44
+update=Monday 08. February 2016 22.24.01
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,25 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=snapeda;seed
-[eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=regul
-LibName7=analog_switches
-LibName8=audio
-LibName9=interface
-LibName10=philips
-LibName11=opto
-LibName12=contrib
-LibName13=snapeda/RELAY-HLS8L-DC5V-S-C_5P-19X15MM_
-LibName14=seed/Seeed-OPL-Connector
-LibName15=snapeda/ST-PJ-312
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -54,3 +35,23 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=snapeda;seed
+[eeschema/libraries]
+LibName1=bypass_crossmix-rescue
+LibName2=power
+LibName3=device
+LibName4=transistors
+LibName5=conn
+LibName6=linear
+LibName7=regul
+LibName8=analog_switches
+LibName9=audio
+LibName10=interface
+LibName11=philips
+LibName12=opto
+LibName13=contrib
+LibName14=snapeda/RELAY-HLS8L-DC5V-S-C_5P-19X15MM_
+LibName15=seed/Seeed-OPL-Connector
+LibName16=snapeda/ST-PJ-312
